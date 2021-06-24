@@ -29,4 +29,4 @@ python3 main.py
 ```
 Enfin, connectez-vous à l'adresse suivante : **http://127.0.0.1:8050/**.
 ## Livrables
-Vous pourrez trouver le poster **[poster](poster_dataviz.pdf)** et également le **[rapport](rapport.pdf)**.
+Nous avons également produit un **[poster](poster_dataviz.pdf)** et aussi un **[rapport](rapport.pdf)**.
