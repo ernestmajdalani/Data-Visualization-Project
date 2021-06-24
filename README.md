@@ -1,5 +1,5 @@
 # Projet de visualisation : Inégalitées économiques
-Auteurs : **Théo Lefievre**, **Vincent Poquet**, **Ernest Majdalani**, **Adrien Senet**, **Morgan Fassier**
+Auteurs : **Théo Lefievre**, **Vincent Poquet**, **Ernest Majdalani**, **Adrien Senet**, **Morgan Fassier**  
 Ce projet s'appuie de **https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-opioid-epidemic**.
 ## Utilisation
 Clonez et rentrer dans le dossier *data-visualization-project* :
@@ -28,4 +28,5 @@ Enfin, exécutez le programme **main**:
 python3 main.py
 ```
 Enfin, connectez-vous à l'adresse suivante : **http://127.0.0.1:8050/**.
-
+## Livrables
+Vous pourrez trouver le poster **[poster](poster_dataviz.pdf)** et également le **[rapport](rapport.pdf)**.
