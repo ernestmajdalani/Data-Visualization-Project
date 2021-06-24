@@ -23,7 +23,7 @@ Veuillez ensuite installer les paquets requis :
 ```
 pip install -r requirements.txt
 ```
-Enfin, exécutez le programme **main**: 
+Enfin, exécutez le programme **main** : 
 ```
 python3 main.py
 ```
