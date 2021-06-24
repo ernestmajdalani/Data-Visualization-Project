@@ -32,4 +32,4 @@ python3 main.py
 ```
 Enfin, connectez-vous à l'adresse suivante : **http://127.0.0.1:8050/**.
 ## Livrables
-Nous avons également produit un **[poster](poster_dataviz.pdf)** et aussi un **[rapport](rapport.pdf)**.
+Nous avons également produit un **[poster](poster_dataviz.pdf)** et un **[rapport](rapport.pdf)**.
